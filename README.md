@@ -137,10 +137,10 @@ Push and commit files to the GitHub repository.
 ```
 
 ## Output:
-![COVERPAGE](images/des.png)
+![COVERPAGE](./des.png)
 
 ## HTML Validation:
-![VALID](images/vd.png)
+![VALID](./vd.png)
 
 ## Result:
 Cover page designed and displayed sucessfully.
